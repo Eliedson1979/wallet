@@ -1,6 +1,6 @@
 # 💳 Wallet
 
-![Preview Projeto](./imgs/)
+![Preview Projeto](./imgs/preview.png)
 
 ## Acesse o projeto clicando <a href="">AQUI</a>
 
