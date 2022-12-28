@@ -1,0 +1,47 @@
+table {
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #06b806d7;
+  color: white;
+  min-width: 110px;
+  padding: 10px;
+  position: sticky;
+  text-align: center;
+  top: 0;
+}
+
+td {
+  padding: 8px;
+  text-align: center;
+}
+
+.Table-Container {
+  max-height: 86vh;
+  max-width: 100%;
+}
+
+.Buttons-Container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Buttons-Container button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+@media screen and ( max-width : 1025px ) {
+
+  th , td {
+    padding: 6px;
+  }
+
+  .Table-Container {
+    overflow-x: scroll;
+  }
+
+}

@@ -1,0 +1,60 @@
+.Header {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1rem;
+}
+
+.Header h1 {
+  font-size: 2.4rem;
+}
+
+.Title {
+  width: 50%;
+}
+
+.Header-Informations {
+  align-items: center;
+  background: #f66960;
+  border-radius: 6px;
+  box-shadow: rgb(100 100 111 / 20%) 0 2px 29px 0;
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 0.6rem;
+  width: 300px;
+}
+
+.Header-Informations div {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+}
+
+@media screen and ( max-width : 600px ) {
+
+  .Header {
+    flex-direction: column;
+    gap: 8px;
+    padding: 1rem 0;
+  }
+
+  .Header h1 {
+    font-size: 1.8rem;
+  }
+
+  .Title {
+    gap: 0;
+    padding: 12px 0;
+    width: 90%;
+  }
+
+  .Title svg {
+    font-size: 2.6rem;
+  }
+
+  .Header-Informations {
+    width: 90%;
+  }
+}
