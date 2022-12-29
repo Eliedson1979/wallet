@@ -2,7 +2,7 @@
 
 ![Preview Projeto](./imgs/preview.png)
 
-## Acesse o projeto clicando <a href="">AQUI</a>
+## Acesse o projeto clicando <a href="https://eliedson1979.github.io/wallet/#/">AQUI</a>
 
 <br />
 
@@ -23,7 +23,7 @@ Nesse projeto desenvolvemos uma aplicação para controle de gastos. Colocamos e
 ### 1 - Clone o repositório:
 
 ```
-git clone 
+git clone git@github.com:Eliedson1979/wallet.git
 ```
 
 ### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
