@@ -10,7 +10,7 @@
 
 Projeto desenvolvido na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
-Nesse projeto desenvolvemos uma aplicação para controle de gastos. Colocamos em prática o aprendizado em Redux para salvar o estado de nossa aplicação de maneira global, podendo acessá-lo em qualquer parte do código. Também consultamos uma API para receber a cotação de moedas para fazer sua conversão na tabela.
+Nesse projeto desenvolvi uma aplicação para controle de gastos. Colocamos em prática o aprendizado em Redux para salvar o estado de nossa aplicação de maneira global, podendo acessá-lo em qualquer parte do código. Também consultamos uma API para receber a cotação de moedas para fazer sua conversão na tabela.
 
 <br />
 
